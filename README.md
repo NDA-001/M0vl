@@ -1,11 +1,9 @@
 ### Welcome To My Profile!
 ---
-Hello! I'm a beginner programmer and looking forward to collaborating and learning with other people!
+Hello. Thanks for checking out this profile
 
----
-- 🔭 I’m currently working on: The Till System
-- 🌱 I’m currently learning: Java
-- 📖 I know how to code in: Object Pascal, SQL
-- 👯 I’m looking to collaborate on: Any project that I can learn from
-- Intrests: Literally anything to do with problem solving and code
----
+Delphi is okay
+Java makes me want to die
+SQL looks like a nightmare at a higher levels
+
+Working on a "banking program" that **SHOULD NOT BE USED FOR PROFESSIONAL USE**
